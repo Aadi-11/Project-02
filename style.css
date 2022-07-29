@@ -12,6 +12,8 @@
 
 body {
   background: url("assets/pexels-maxyne-barcel-10402282 1.png");
+  background-position: center;
+  background-size: cover;
   /* opacity: 0.5; */
   /* background: gray; */
 }
